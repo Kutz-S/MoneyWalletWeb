@@ -5,7 +5,7 @@ import Navbar from '../components/Navbar';
 
 
 const setIsFormSubmitted = () => {
-        alert('Foem sent');
+        alert('Form sent');
     }
 
 const Supportpage = () => {
