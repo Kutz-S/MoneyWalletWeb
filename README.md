@@ -1,5 +1,7 @@
 # EzMoney Wallet Web
 
+Try it now: https://ezmoney-2466e.web.app/
+
 MoneyWalletWeb is a web-based application for managing personal finances and tracking expenses. This project aims to provide users with a convenient and intuitive platform to track their income, expenses, and overall financial health.
 
 ## Features
@@ -39,6 +41,27 @@ To install and run MoneyWalletWeb locally, follow these steps:
 For more information about React JS Installation visit: React's docs [here](https://legacy.reactjs.org/docs/getting-started.html).
 
 For Firebase setup and Deployment follow official docs [here](https://firebase.google.com/docs/hosting/quickstart).
+
+## Project folder structure
+- This project follows feature first folder structure.
+
+- 📁 `src`- Contains the source codes for the project.
+- 📁 `public`-  Contains the images used for the web app.
+-📁`git` - Contains codes used for the uploading of the files from pc to github.
+
+-📁`Firebase` - Contains codes specific for the connection of firebase to the web app.
+
+-📁`node_modules` - Contains codes neccessary for the whole program to run using react js.
+
+    
+
+    features of the app.
+        - 📁`Components` - Contains codes specific for       authentication feature of the app
+            -📁`MoneyDetails` - Contains codes specific for the transaction records of the app
+            -📁`MoneyManager` - Contains the specific codes for how the transaction works
+            -📁`TransactionItem` - Contains the code for manipulating the data
+         -📁`pages` - Contains the codes design and structure
+
 
 ## Technologies Used
 
