@@ -147,11 +147,10 @@ class MoneyManager extends Component {
               Welcome back to your
               <span className="money-manager-text"> EzMoney Manager</span>
             </p>
-            <div>
-            <button className="buton" type="submit"  onClick={logOut}>
+            <button type="submit" className='buton' onClick={logOut}>
                 Logout
               </button>
-              </div>
+        
           </div>
           <MoneyDetails
             balanceAmount={balanceAmount}
