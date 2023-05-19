@@ -12,28 +12,28 @@ const Transactionpage = () => {
     {
       name: "Kutz Ruzzel Sumaya",
       description: "FullStack Developer",
-      image: "kuya will.jpg" 
+      image: "kutz.jpg" 
     },
     {
       name: "Alfonso Tianzon",
-      description: "Web Desing",
-      image: "memer.jpg" // Replace with the actual image URL or path
+      description: "Web Design",
+      image: "fonso.jpg" // Replace with the actual image URL or path
     },
     {
       name: "Andre Quimio",
       description: "Project Manager",
-      image: "wally.jpeg" // Replace with the actual image URL or path
+      image: "andre.jpg" // Replace with the actual image URL or path
     },
     {
       name: "Aeroll Garcia",
       description: "SRS Manager",
-      image: "download.jpeg" // Replace with the actual image URL or path
+      image: "erol.jpg" // Replace with the actual image URL or path
     },
     
     {
       name: "Jude Russel Roxas",
       description: "Software Tester",
-      image: "dingdong.jpeg" // Replace with the actual image URL or path
+      image: "asel.jpg" // Replace with the actual image URL or path
     },
     
   ];
